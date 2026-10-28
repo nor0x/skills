@@ -24,7 +24,7 @@ treat an unasked question as a future bug.
   constraints, success criteria, data, environments, deployment, failure cases.
 - Surface every assumption for the user to confirm. If an answer opens a new
   unknown, ask the follow-up — drill down recursively.
-- Use `AskUserQuestion` for concrete choices. When done, summarize the full scope
+- Use `AskUserQuestion` or other available question tools for concrete choices. When done, summarize the full scope
   back and only proceed once the user confirms nothing is missing.
 
 ## 2. Write the plan
