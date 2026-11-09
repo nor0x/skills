@@ -1,1 +1,1 @@
-skills that i and my agents use
+straight from my ~/.agents dir
